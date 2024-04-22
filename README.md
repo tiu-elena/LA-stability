@@ -1,2 +1,2 @@
-# LA-stability
-Explainable Learning Analytics: assessing the stability of student success prediction models by means of explainable AI
+# Explainable Learning Analytics: assessing the stability of student success prediction models by means of explainable AI
+Source code for the paper titled "Explainable Learning Analytics: assessing the stability of student success prediction models by means of explainable AI" submitted for consideration to the Decision Support System journal by Elena Tiukhova, Pavani Vemuri, Nidia López Flores, Anna Sigridur Islind, María Óskarsdóttir, Stephan Poelmans, Bart Baesens and Monique Snoeck
